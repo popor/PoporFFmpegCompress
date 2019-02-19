@@ -1,0 +1,23 @@
+PODS:
+  - PoporFFmpeg (0.0.08)
+  - PoporFFmpegCompress (0.0.01):
+    - PoporFFmpeg
+
+DEPENDENCIES:
+  - PoporFFmpegCompress (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - PoporFFmpeg
+
+EXTERNAL SOURCES:
+  PoporFFmpegCompress:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PoporFFmpeg: ace9396e36fd4070da090f14762d1cad4b5958f0
+  PoporFFmpegCompress: a79f30b72cfc5751c439bd1abc3613e56552ac05
+
+PODFILE CHECKSUM: 84f69b889649abf7526a86a5aa8d0824880ff1b6
+
+COCOAPODS: 1.6.0

@@ -1,0 +1,6 @@
+framework module PoporFFmpegCompress {
+  umbrella header "PoporFFmpegCompress-umbrella.h"
+
+  export *
+  module * { export * }
+}
