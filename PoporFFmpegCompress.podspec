@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PoporFFmpegCompress'
-  s.version          = '0.0.01'
+  s.version          = '0.0.02'
   s.summary          = '简化FFmpeg使用'
   
   s.homepage         = 'https://github.com/popor/PoporFFmpegCompress'

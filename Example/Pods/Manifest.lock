@@ -1,6 +1,6 @@
 PODS:
   - PoporFFmpeg (0.0.08)
-  - PoporFFmpegCompress (0.0.01):
+  - PoporFFmpegCompress (0.0.02):
     - PoporFFmpeg
 
 DEPENDENCIES:
@@ -16,8 +16,8 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   PoporFFmpeg: ace9396e36fd4070da090f14762d1cad4b5958f0
-  PoporFFmpegCompress: a79f30b72cfc5751c439bd1abc3613e56552ac05
+  PoporFFmpegCompress: f71860f2df1ce388d8f4d158cd261f0c017c3fa9
 
 PODFILE CHECKSUM: 84f69b889649abf7526a86a5aa8d0824880ff1b6
 
-COCOAPODS: 1.6.0
+COCOAPODS: 1.7.5
